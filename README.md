@@ -1,4 +1,3 @@
-Reporte de Laboratorio: Optimización en Procesamiento Masivo de Datos
 Descripción General
 Este proyecto implementa una solución de software orientada al procesamiento masivo de datos en Java. El sistema aborda la problemática común de la saturación de memoria RAM al manipular millones de registros de clientes en sistemas empresariales de telecomunicaciones.
 Evolución del Sistema y Estrategia de Optimización
